@@ -67,7 +67,7 @@ function resize() {
 }
 
 function userSaidGo() {
-  model = new mm.MusicRNN("http://localhost:8000/checkpoints" +
+  model = new mm.MusicRNN("http://localhost:8000/Downloads/MusicGeneration-master/web/checkpoints" +
   "/music_rnn_basic_rnn");
   model.initialize();
   
