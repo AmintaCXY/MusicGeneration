@@ -12,13 +12,13 @@ If you would like to hear the partial results generated please go to <https://gi
 ***
 
 In the __web__ folder is the web source file for music generation interaction. 
-You can download this folder and use __start.py__ to start the server locally. 
+You can download this folder and use __start.py__ to start the server locally. The default file placement path is `/Downloads/MusicGeneration-master`, please change it if there is any difference.
 
-##Mac:
+## Mac:
 
     python ./Downloads/MusicGeneration-master/web/start.py 8000
 
-##Windows:
+## Windows:
 
     python \Downloads\MusicGeneration-master\web\start.py 8000
 
