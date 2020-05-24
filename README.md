@@ -23,7 +23,7 @@ Modify this path if you are placing the file in a different location, but at the
 
 ## Windows:
 
-    python \Downloads\MusicGeneration-master\web\start.py 8000
+    python .\Downloads\MusicGeneration-master\web\start.py 8000
 
 Then you can open the __musicgeneration.html__ page under the __web__ file.
 
