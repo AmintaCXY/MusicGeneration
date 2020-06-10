@@ -9,11 +9,11 @@ The __training__ folder is a trained model where you can use the bundled files t
 
 If you would like to hear the partial results generated please go to <https://github.com/AmintaCXY/Result/tree/master> .
 
-[演示视频](https://www.iqiyi.com/v_19rxoxegck.html#curid=16679132200_31e68db468b23d137405e651ce48e8cb)
+[Demo video](https://www.iqiyi.com/v_19rxoxegck.html#curid=16679132200_31e68db468b23d137405e651ce48e8cb)
 
 ***
 
-# ABSTRACT
+## ABSTRACT：
 
 With the rapid development of deep learning technology, researchers are also applying computer technology to art generation. Many neural network models have also performed well in music generation. However, existing music generation projects generally have the following problems: 1. There is little correlation between the sections of music generated, and the overall structure is relatively random. 2. Most models are used to learn and produce classical or popular music. 3. The final output cannot be manually controlled, and there is little interaction between the model and the user.
 In order to solve the above problems, based on previous studies, this paper studies the music generation, and constructs a jazz style music generation model and interactive platform based on deep learning. The main research contents are as follows:
