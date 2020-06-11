@@ -31,7 +31,7 @@ If you would like to hear the partial results generated please go to <https://gi
 # Web
 
 
-[Demo video](https://www.iqiyi.com/v_19rxoxegck.html#curid=16679132200_31e68db468b23d137405e651ce48e8cb)
+You can view the [demo video](https://www.iqiyi.com/v_19rxoxegck.html#curid=16679132200_31e68db468b23d137405e651ce48e8cb) before using it.
 
 
 In the __web__ folder is the web source file for music generation interaction. 
