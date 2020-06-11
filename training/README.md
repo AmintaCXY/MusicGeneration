@@ -1,4 +1,5 @@
-# Music Generation of Jazz Style based on Deep Learning 
+# Model
+
  This is a trained model where you can generate music in the following ways:
 
  Start by creating a new environment:
