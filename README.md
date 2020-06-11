@@ -2,15 +2,6 @@
 
  This paper studies the music generation, and constructs a jazz style music generation model and interactive platform based on deep learning. 
 
-
-***
-
-The __training__ folder is a trained model where you can use the bundled files to generate music from the command line.
-
-If you would like to hear the partial results generated please go to <https://github.com/AmintaCXY/Result/tree/master> .
-
-[Demo video](https://www.iqiyi.com/v_19rxoxegck.html#curid=16679132200_31e68db468b23d137405e651ce48e8cb)
-
 ***
 
 ## ABSTRACT：
@@ -22,6 +13,26 @@ In order to solve the above problems, based on previous studies, this paper stud
 3. The model is trained with data sets. The trained model is used to read the input sequence of notes, generate the jazz percussion and piano melody according to the input, and objectively and subjectively evaluate the generated results.
 4. Finally, the model is implemented in a Web browser. Users can input the initial sequence of notes in the browser, use the model to generate music, and process the music to some extent. So as to achieve the purpose of human-computer interaction.
 
+# Model
+
+***
+
+## Database
+
+If you want to use our database, can be in <https://pan.baidu.com/s/184t4GPW_-qhjeGF8TYcFKg> (extraction code: uj3i) to download.
+
+***
+
+The __training__ folder is a trained model where you can use the bundled files to generate music from the command line.
+
+If you would like to hear the partial results generated please go to <https://github.com/AmintaCXY/Result/tree/master> .
+
+
+# Web
+
+***
+
+[Demo video](https://www.iqiyi.com/v_19rxoxegck.html#curid=16679132200_31e68db468b23d137405e651ce48e8cb)
 
 ***
 
