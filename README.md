@@ -51,3 +51,5 @@ Modify this path if you are placing the file in a different location, but at the
 Then you can open the __musicgeneration.html__ page under the __web__ file.
 
 The page is then used to generate music.
+
+It is important to note that the notes are entered from the __left__ side of the panel so that the model can generate subsequent music.
