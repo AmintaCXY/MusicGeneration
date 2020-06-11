@@ -3,8 +3,6 @@
 
 You can view the [demo video](https://www.iqiyi.com/v_19rxoxegck.html#curid=16679132200_31e68db468b23d137405e651ce48e8cb) before using it.
 
-
-In the __web__ folder is the web source file for music generation interaction. 
 You can download this folder and use __start.py__ to start the server locally. 
 
 The default file placement path is `/Downloads/MusicGeneration-master`. 
