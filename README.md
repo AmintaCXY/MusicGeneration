@@ -17,24 +17,49 @@ In order to solve the above problems, based on previous studies, this paper stud
 
 # Model
 
+The __training__ folder is a trained model where you can use the bundled files to generate music from the command line.
+
+If you would like to hear the partial results generated please go to <https://github.com/AmintaCXY/Result/tree/master> .
+
+
 ## Database
 
 If you want to use our database, can be in <https://pan.baidu.com/s/184t4GPW_-qhjeGF8TYcFKg> (extraction code: uj3i) to download.
 
 
-The __training__ folder is a trained model where you can use the bundled files to generate music from the command line.
+## Use trained models
 
-If you would like to hear the partial results generated please go to <https://github.com/AmintaCXY/Result/tree/master> .
+This is a trained model where you can generate music in the following ways:
+
+Start by creating a new environment:
+ 
+    conda info
+    conda create --name magenta python=3.6`
+
+Activate the environment we created and install the library in it:
+ 
+    conda activate magenta
+    pip install magenta==1.1.7
+
+Then use the following code to generate music using the model, replace `bundle` with the mag file address, and replace `output` with the output directory:
+ 
+    drums_rnn_generate --bundle_file="bundle" --output_dir="output"
+
+`primer` can be replaced with the input MIDI file address:：
+ 
+    melody_rnn_generate --bundle_file="bundle" --output_dir="output"  --primer_midi="primer"
+     
+
 
 ***
 
 # Web
 
-
+In the __web__ folder is the web source file for music generation interaction. 
 You can view the [demo video](https://www.iqiyi.com/v_19rxoxegck.html#curid=16679132200_31e68db468b23d137405e651ce48e8cb) before using it.
 
+***
 
-In the __web__ folder is the web source file for music generation interaction. 
 You can download this folder and use __start.py__ to start the server locally. 
 
 The default file placement path is `/Downloads/MusicGeneration-master`. 
