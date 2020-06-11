@@ -6,10 +6,6 @@
 If you want to use our database, can be in <https://pan.baidu.com/s/184t4GPW_-qhjeGF8TYcFKg> (extraction code: uj3i) to download.
 
 
-The __training__ folder is a trained model where you can use the bundled files to generate music from the command line.
-
-If you would like to hear the partial results generated please go to <https://github.com/AmintaCXY/Result/tree/master> .
-
 ## Use trained models
 
 This is a trained model where you can generate music in the following ways:
